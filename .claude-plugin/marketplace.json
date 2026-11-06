@@ -1,0 +1,18 @@
+{
+  "name": "ssoft-ai",
+  "owner": {
+    "name": "Andrei Stepanov",
+    "url": "https://github.com/ssoft-ai"
+  },
+  "description": "Plugins and skills for AI agents from the ssoft-ai projects",
+  "plugins": [
+    {
+      "name": "sdlc",
+      "description": "Software development life cycle skills after the industry standards, from the life cycle as a whole down to languages and tools",
+      "source": {
+        "source": "github",
+        "repo": "ssoft-ai/sdlc"
+      }
+    }
+  ]
+}
