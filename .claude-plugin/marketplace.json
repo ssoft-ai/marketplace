@@ -13,6 +13,14 @@
         "source": "github",
         "repo": "ssoft-ai/sdlc"
       }
+    },
+    {
+      "name": "skill-router",
+      "description": "Finds the skills for a request among every installed skill source, including skills the session's skill list does not show",
+      "source": {
+        "source": "github",
+        "repo": "ssoft-ai/skill-router"
+      }
     }
   ]
 }
