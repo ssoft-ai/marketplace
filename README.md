@@ -26,7 +26,10 @@ Then install a plugin from it:
 | `sdlc` | `claude plugin install sdlc@ssoft-ai` |
 | `skill-router` | `claude plugin install skill-router@ssoft-ai` |
 
-A plugin is installed from the default branch of its repository.
+| Plugin | Installed from |
+|---|---|
+| `sdlc` | the default branch of its repository |
+| `skill-router` | its latest release tag |
 
 | Action | Command |
 |---|---|
